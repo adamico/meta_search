@@ -1,3 +1,6 @@
 [submodule "vendor/rails"]
 	path = vendor/rails
 	url = http://github.com/rails/rails.git
+[submodule "vendor/arel"]
+	path = vendor/arel
+	url = git@github.com:adamico/arel.git
